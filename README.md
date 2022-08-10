@@ -9,9 +9,9 @@ Repositorio para practicar con un sistema sencillo SpringFramework implementando
 - Argon2 - Para encriptar la contraseña del usuario con hash.
 
 
-Inicio de sesión.
+## Inicio de sesión.
 
-Registro de usuario.
+## Registro de usuario.
 
-Manejo de usuarios.
+## Manejo de usuarios.
 
