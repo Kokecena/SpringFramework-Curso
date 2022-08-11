@@ -10,8 +10,6 @@ Repositorio para practicar con un sistema sencillo SpringFramework implementando
 
 
 ## Inicio de sesión.
-
 ## Registro de usuario.
-
 ## Manejo de usuarios.
 
