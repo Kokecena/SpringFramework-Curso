@@ -8,8 +8,8 @@ Repositorio para practicar con un sistema sencillo SpringFramework implementando
 - JWT - Como proceso de inicio de sesión.
 - Argon2 - Para encriptar la contraseña del usuario con hash.
 
-### Github no me deja subir imagenes :c
-## Inicio de sesión.
-## Registro de usuario.
-## Manejo de usuarios.
+# Capturas de pantalla (Github no me deja subir imagenes :c)
+### Inicio de sesión.
+### Registro de usuario.
+### Manejo de usuarios.
 
